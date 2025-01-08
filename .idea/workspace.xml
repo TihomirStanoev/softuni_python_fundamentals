@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python_fundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/1_number_definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/2_largest_of_three_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/3. Word Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/4. Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/5. Number Between 1 and 100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/6. Shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/7. Patterns.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2rMXBQU0lk9vIL6TOLYImfVa7ib" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1_number_definer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/tihomir/Documents/SoftUni/python_fundamentals"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tihomir\Documents\SoftUni\python_fundamentals" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="" />
+      <created>1736369781424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736369781424</updated>
+    </task>
+    <servers />
+  </component>
+</project>
