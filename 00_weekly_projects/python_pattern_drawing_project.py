@@ -1,9 +1,10 @@
+from colorama import Fore
+
 # 🖼️ Python Pattern Drawing Project
 
 
-play = True
 
-while play:
+while True:
 
     # Step 1: Display a menu to the user
     print("🌟 Welcome to the Python Pattern Drawing Program!")
@@ -25,19 +26,22 @@ while play:
     # Step 3: Get dimensions based on choice
     if choice in [1, 3, 4, 6, 7]:  # Patterns that need the number of rows
         while rows % 2 == 0:
-            print("Please enter an odd number.")
+            print(Fore.RED + "Please enter an odd number.")
+            print(Fore.RESET + '')
             rows = int(input("Enter the number of rows: "))
     elif choice in [2, 5]:  # Patterns that need size
         size = int(input("Enter the size of the square/rectangle: "))
 
-    # Additional step - write to file
-    wirte_to_file = input("Press 'y' to save the figure in file: ")
 
-    if wirte_to_file == 'y':
-        write_to = True
 
     # Step 4: Generate the selected pattern
     if choice == 1:  # Right-angled Triangle
+
+        # Additional step - write to file
+        write_to_file = input("Press 'y' to save the figure in file: ")
+        if write_to_file == 'y':
+            write_to = True
+
         # TODO: Loop through rows and print increasing stars
         columns = 1
         for r in range(rows):
@@ -194,10 +198,10 @@ while play:
 
 
     # Step 5: Optional - Allow the user to restart or exit
-    print("Do you want me to restart the program?")
-    restart = input("  Press 'y' for restart and 'n' for exit: ")
+    print("Do you want to restart the program?")
+    restart = input("  Press " + Fore.GREEN + "'y'" + Fore.RESET + " for restart or " + Fore.RED + "'n'" + Fore.RESET + " for exit: ")
 
     if restart != 'y':
-        play = False
+        break
 
     print('\n'*50)
