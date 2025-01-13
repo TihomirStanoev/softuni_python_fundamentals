@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="upload">
-      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/7_patterns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/10_mutate_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/11_easter_bread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/12_christmas_spirit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/1_jennys_secret_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/2_drink_something.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/3_chat_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/4_maximum_multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/5_orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/6_string_pureness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/7_double_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/8_how_much_coffee_do_you_need.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/9_sorting_hat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/test.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option.">
+      <change afterPath="$PROJECT_DIR$/12_basic_syntax_conditional_statements_and_loops_more_exercise/1_find_the_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_basic_syntax_conditional_statements_and_loops_more_exercise/2_find_the_capitals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/1_number_definer.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/1_number_definer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/2_largest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/2_largest_of_three_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/3. Word Reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/00_weekly_projects/python_pattern_drawing_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/4. Even Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/3_word_reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/5. Number Between 1 and 100.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/4_even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/6. Shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/5_number_between_1_and_100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/7. Patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/6_shopping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TihomirStanoev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TihomirStanoev/softuni_python_fundamentals.git&quot;,
+    &quot;accountId&quot;: &quot;c72f622d-6593-4034-97c9-e6de9a64448b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -59,9 +52,11 @@
     "Python.10_mutate_strings.executor": "Run",
     "Python.11_easter_bread.executor": "Run",
     "Python.12_christmas_spirit.executor": "Run",
+    "Python.1_find_the_largest.executor": "Run",
     "Python.1_jennys_secret_message.executor": "Run",
     "Python.1_number_definer.executor": "Run",
     "Python.2_drink_something.executor": "Run",
+    "Python.2_find_the_capitals.executor": "Run",
     "Python.2_largest_of_three_numbers.executor": "Run",
     "Python.3_chat_codes.executor": "Run",
     "Python.3_word_reverse.executor": "Run",
@@ -81,7 +76,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/tihomir/PycharmProjects/uniSoftBasic"
+    "last_opened_file_path": "C:/Users/tihomir/Documents/GitHub/python-fundamentals-01-2025"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -113,11 +108,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736370091042</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option.">
+      <option name="closed" value="true" />
+      <created>1736799636479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736799636479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload" />
+    <MESSAGE value="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option." />
   </component>
 </project>
