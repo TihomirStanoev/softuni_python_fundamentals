@@ -1,44 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_fundamentals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/1_number_definer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/2_largest_of_three_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/3. Word Reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/4. Even Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/5. Number Between 1 and 100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/6. Shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/7. Patterns.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="upload">
+      <change afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/7_patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/10_mutate_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/11_easter_bread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/12_christmas_spirit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/1_jennys_secret_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/2_drink_something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/3_chat_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/4_maximum_multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/5_orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/6_string_pureness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/7_double_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/8_how_much_coffee_do_you_need.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/9_sorting_hat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_basic_syntax_conditional_statements_and_loops_exercise/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/1_number_definer.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/1_number_definer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/2_largest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/2_largest_of_three_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/3. Word Reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/00_weekly_projects/python_pattern_drawing_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/4. Even Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/3_word_reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/5. Number Between 1 and 100.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/4_even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/6. Shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/5_number_between_1_and_100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/7. Patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_basic_syntax_conditional_statements_and_loops_lab/6_shopping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2rMXBQU0lk9vIL6TOLYImfVa7ib" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10_mutate_strings.executor": "Run",
+    "Python.11_easter_bread.executor": "Run",
+    "Python.12_christmas_spirit.executor": "Run",
+    "Python.1_jennys_secret_message.executor": "Run",
     "Python.1_number_definer.executor": "Run",
+    "Python.2_drink_something.executor": "Run",
+    "Python.2_largest_of_three_numbers.executor": "Run",
+    "Python.3_chat_codes.executor": "Run",
+    "Python.3_word_reverse.executor": "Run",
+    "Python.4_even_numbers.executor": "Run",
+    "Python.4_maximum_multiple.executor": "Run",
+    "Python.5_number_between_1_and_100.executor": "Run",
+    "Python.5_orders.executor": "Run",
+    "Python.6_shopping.executor": "Run",
+    "Python.6_string_pureness.executor": "Run",
+    "Python.7_double_char.executor": "Run",
+    "Python.7_patterns.executor": "Run",
+    "Python.8_how_much_coffee_do_you_need.executor": "Run",
+    "Python.9_sorting_hat.executor": "Run",
+    "Python.python_pattern_drawing_project.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/tihomir/Documents/SoftUni/python_fundamentals"
+    "last_opened_file_path": "C:/Users/tihomir/PycharmProjects/uniSoftBasic"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,6 +105,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736369781424</updated>
     </task>
+    <task id="LOCAL-00001" summary="upload">
+      <option name="closed" value="true" />
+      <created>1736370091042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736370091042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
 </project>
