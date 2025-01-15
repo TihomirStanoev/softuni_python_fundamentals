@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option.">
-      <change afterPath="$PROJECT_DIR$/12_basic_syntax_conditional_statements_and_loops_more_exercise/1_find_the_largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_basic_syntax_conditional_statements_and_loops_more_exercise/2_find_the_capitals.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="practice Problems">
+      <change afterPath="$PROJECT_DIR$/12_basic_syntax_conditional_statements_and_loops_more_exercise/3_wolf_in_sheeps_clothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_basic_syntax_conditional_statements_and_loops_more_exercise/4_sum_of_a_beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_data_types_and_variables/1_concat_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_data_types_and_variables/2_convert_meters_to_kilometers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_data_types_and_variables/3_pounds_to_dollars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_data_types_and_variables/4_centuries_to_minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_data_types_and_variables/5_special_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_data_types_and_variables/6_next_happy_year.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_basic_syntax_conditional_statements_and_loops_more_exercise/1_find_the_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_basic_syntax_conditional_statements_and_loops_more_exercise/1_find_the_largest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +59,7 @@
     "Python.10_mutate_strings.executor": "Run",
     "Python.11_easter_bread.executor": "Run",
     "Python.12_christmas_spirit.executor": "Run",
+    "Python.1_concat_names.executor": "Run",
     "Python.1_find_the_largest.executor": "Run",
     "Python.1_jennys_secret_message.executor": "Run",
     "Python.1_number_definer.executor": "Run",
@@ -60,10 +68,13 @@
     "Python.2_largest_of_three_numbers.executor": "Run",
     "Python.3_chat_codes.executor": "Run",
     "Python.3_word_reverse.executor": "Run",
+    "Python.4_centuries_to_minutes.executor": "Run",
     "Python.4_even_numbers.executor": "Run",
     "Python.4_maximum_multiple.executor": "Run",
+    "Python.4_sum_of_a_beach.executor": "Run",
     "Python.5_number_between_1_and_100.executor": "Run",
     "Python.5_orders.executor": "Run",
+    "Python.5_special_numbers.executor": "Run",
     "Python.6_shopping.executor": "Run",
     "Python.6_string_pureness.executor": "Run",
     "Python.7_double_char.executor": "Run",
@@ -116,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736799636479</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="practice Problems">
+      <option name="closed" value="true" />
+      <created>1736803723580</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736803723580</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload" />
     <MESSAGE value="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option." />
+    <MESSAGE value="practice Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice Problems" />
   </component>
 </project>
