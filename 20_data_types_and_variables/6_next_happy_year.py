@@ -10,8 +10,6 @@ while True:
         print(number)
         break
 
-
-
 # # This solution does not work 🫣
 #
 # def happy_year(a, b, c, d):
