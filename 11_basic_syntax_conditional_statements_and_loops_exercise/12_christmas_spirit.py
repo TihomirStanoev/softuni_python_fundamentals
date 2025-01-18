@@ -32,5 +32,7 @@ for day in range(1,days_left+1):
 if days_left % 10 == 0:
     total_spirit -= 30
 
+
+
 print(f"Total cost: {total_price}")
 print(f"Total spirit: {total_spirit}")
