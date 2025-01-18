@@ -1,5 +1,5 @@
-command = input()
 
+command = input()
 
 while command != "End":
 
