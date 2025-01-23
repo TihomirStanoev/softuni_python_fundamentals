@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="problems from More-Exercises">
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="Upload all solution">
+      <change afterPath="$PROJECT_DIR$/32_lists_basics_more_exercises/1_invert_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32_lists_basics_more_exercises/2_multiples_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32_lists_basics_more_exercises/3_football_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32_lists_basics_more_exercises/4_number_beggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-exam-preparation/07/1_softuni_reception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,20 +60,24 @@
     "Python.1_exchange_integers.executor": "Run",
     "Python.1_find_the_largest.executor": "Run",
     "Python.1_integer_operations.executor": "Run",
+    "Python.1_invert_values.executor": "Run",
     "Python.1_jennys_secret_message.executor": "Run",
     "Python.1_number_definer.executor": "Run",
     "Python.2_drink_something.executor": "Run",
     "Python.2_find_the_capitals.executor": "Run",
     "Python.2_largest_of_three_numbers.executor": "Run",
+    "Python.2_multiples_list.executor": "Run",
     "Python.2_prime_number_checker.executor": "Run",
     "Python.3_chat_codes.executor": "Run",
     "Python.3_decrypting_messages.executor": "Run",
     "Python.3_elevator.executor": "Run",
+    "Python.3_football_cards.executor": "Run",
     "Python.3_word_reverse.executor": "Run",
     "Python.4_balanced_brackets.executor": "Run",
     "Python.4_centuries_to_minutes.executor": "Run",
     "Python.4_even_numbers.executor": "Run",
     "Python.4_maximum_multiple.executor": "Run",
+    "Python.4_number_beggars.executor": "Run",
     "Python.4_sum_of_a_beach.executor": "Run",
     "Python.4_sum_of_chars.executor": "Run",
     "Python.5_number_between_1_and_100.executor": "Run",
@@ -179,7 +188,39 @@
       <option name="project" value="LOCAL" />
       <updated>1737222962879</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Upload all solution">
+      <option name="closed" value="true" />
+      <created>1737233868269</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737233868269</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Upload all solution">
+      <option name="closed" value="true" />
+      <created>1737233937459</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737233937459</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Upload all solution">
+      <option name="closed" value="true" />
+      <created>1737233983900</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737233983900</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Upload all solution">
+      <option name="closed" value="true" />
+      <created>1737234012083</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737234012083</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +241,18 @@
     <MESSAGE value="Lab: Data Types and Variables" />
     <MESSAGE value="Stupid and broker solution for 6" />
     <MESSAGE value="problems from More-Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="problems from More-Exercises" />
+    <MESSAGE value="Upload all solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload all solution" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/32_lists_basics_more_exercises/4_number_beggars.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
