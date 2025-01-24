@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="Upload all solution">
-      <change afterPath="$PROJECT_DIR$/32_lists_basics_more_exercises/1_invert_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32_lists_basics_more_exercises/2_multiples_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32_lists_basics_more_exercises/3_football_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32_lists_basics_more_exercises/4_number_beggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-exam-preparation/07/1_softuni_reception.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="Upload">
+      <change afterPath="$PROJECT_DIR$/30_list_basics/1_strange_zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_list_basics_exercise/5_faro_shuffle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32_lists_basics_more_exercises/1_invert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/31_list_basics_exercise/1_invert_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32_lists_basics_more_exercises/2_multiples_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/31_list_basics_exercise/2_multiples_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32_lists_basics_more_exercises/3_football_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/31_list_basics_exercise/3_football_cards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32_lists_basics_more_exercises/4_number_beggars.py" beforeDir="false" afterPath="$PROJECT_DIR$/31_list_basics_exercise/4_number_beggars.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,62 +51,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.10_gladiator_expenses.executor": "Run",
-    "Python.10_mutate_strings.executor": "Run",
-    "Python.11_easter_bread.executor": "Run",
-    "Python.12_christmas_spirit.executor": "Run",
-    "Python.1_concat_names.executor": "Run",
-    "Python.1_exchange_integers.executor": "Run",
-    "Python.1_find_the_largest.executor": "Run",
-    "Python.1_integer_operations.executor": "Run",
-    "Python.1_invert_values.executor": "Run",
-    "Python.1_jennys_secret_message.executor": "Run",
-    "Python.1_number_definer.executor": "Run",
-    "Python.2_drink_something.executor": "Run",
-    "Python.2_find_the_capitals.executor": "Run",
-    "Python.2_largest_of_three_numbers.executor": "Run",
-    "Python.2_multiples_list.executor": "Run",
-    "Python.2_prime_number_checker.executor": "Run",
-    "Python.3_chat_codes.executor": "Run",
-    "Python.3_decrypting_messages.executor": "Run",
-    "Python.3_elevator.executor": "Run",
-    "Python.3_football_cards.executor": "Run",
-    "Python.3_word_reverse.executor": "Run",
-    "Python.4_balanced_brackets.executor": "Run",
-    "Python.4_centuries_to_minutes.executor": "Run",
-    "Python.4_even_numbers.executor": "Run",
-    "Python.4_maximum_multiple.executor": "Run",
-    "Python.4_number_beggars.executor": "Run",
-    "Python.4_sum_of_a_beach.executor": "Run",
-    "Python.4_sum_of_chars.executor": "Run",
-    "Python.5_number_between_1_and_100.executor": "Run",
-    "Python.5_orders.executor": "Run",
-    "Python.5_print_part_of_the_ASCII_table.executor": "Run",
-    "Python.5_special_numbers.executor": "Run",
-    "Python.6_shopping.executor": "Run",
-    "Python.6_string_pureness.executor": "Run",
-    "Python.6_triples_of_latin_letters.executor": "Run",
-    "Python.7_double_char.executor": "Run",
-    "Python.7_patterns.executor": "Run",
-    "Python.7_water_overflow.executor": "Run",
-    "Python.8_how_much_coffee_do_you_need.executor": "Run",
-    "Python.8_party_profit.executor": "Run",
-    "Python.9_snowballs.executor": "Run",
-    "Python.9_sorting_hat.executor": "Run",
-    "Python.python_pattern_drawing_project.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/tihomir/Documents/GitHub/python-fundamentals-01-2025"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10_gladiator_expenses.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_mutate_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_easter_bread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_christmas_spirit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_concat_names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_exchange_integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_find_the_largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_integer_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_invert_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_jennys_secret_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_number_definer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_drink_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_find_the_capitals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_largest_of_three_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_multiples_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_prime_number_checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_chat_codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_decrypting_messages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_elevator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_football_cards.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_word_reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_balanced_brackets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_centuries_to_minutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_even_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_maximum_multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_number_beggars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_sum_of_a_beach.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_sum_of_chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_faro_shuffle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_number_between_1_and_100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_orders.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_print_part_of_the_ASCII_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_special_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_string_pureness.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_triples_of_latin_letters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_double_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_water_overflow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8_how_much_coffee_do_you_need.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8_party_profit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9_snowballs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9_sorting_hat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_pattern_drawing_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tihomir/Documents/GitHub/python-fundamentals-01-2025&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tihomir\Documents\SoftUni\python_fundamentals" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tihomir\Documents\SoftUni\python_fundamentals\31_list_basics_exercise" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -220,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737234012083</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Upload">
+      <option name="closed" value="true" />
+      <created>1737665335089</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737665335089</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,17 +256,7 @@
     <MESSAGE value="Stupid and broker solution for 6" />
     <MESSAGE value="problems from More-Exercises" />
     <MESSAGE value="Upload all solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload all solution" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/32_lists_basics_more_exercises/4_number_beggars.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload" />
   </component>
 </project>
