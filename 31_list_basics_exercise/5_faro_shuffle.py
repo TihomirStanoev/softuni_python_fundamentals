@@ -1,25 +1,21 @@
-deck = input()
-count = int(input())
+deck = ['ace', 'two', 'three', 'four', 'five', 'six']  # input().split()
+shuffles = 1
 
-deck = deck.split(' ')
-
-faro_deck = deck.copy()
 
 
 half = len(deck) // 2
+fc = 1
+shuffle_deck = []
 
-for _ in range(count):
-    for card in range(half):
-        if card > 0:
-            faro_deck[card * 2] = deck[card]
+for shuffle in range(3):
+    shuffle_deck.append(deck[half])
+    half += 1
+    shuffle_deck.append(deck[fc])
+    fc += 1
 
-    pos = 0
-    for card in range(len(deck) - 1):
-        if card % 2 == 0:
-            continue
-        faro_deck[card] = deck[half + pos]
-        pos += 1
 
-    deck = faro_deck
 
-print(faro_deck)
+print(half)
+
+
+
