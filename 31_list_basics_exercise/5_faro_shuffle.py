@@ -1,21 +1,23 @@
-deck = ['ace', 'two', 'three', 'four', 'five', 'six']  # input().split()
-shuffles = 1
-
+deck = input().split()
+shuffles = int(input())
 
 
 half = len(deck) // 2
-fc = 1
 shuffle_deck = []
 
-for shuffle in range(3):
-    shuffle_deck.append(deck[half])
-    half += 1
-    shuffle_deck.append(deck[fc])
-    fc += 1
+for number_shuffles in range(shuffles):
+    left_side = []
+    right_side = []
+    for card in range(half):
+        left_side.append(deck[card])
+        right_side.append(deck[card+half])
+
+    shuffle_deck = []
+    for shuffle_card in range(half):
+        shuffle_deck.append(left_side[shuffle_card])
+        shuffle_deck.append(right_side[shuffle_card])
+    deck = shuffle_deck.copy()
 
 
-
-print(half)
-
-
+print(shuffle_deck)
 
