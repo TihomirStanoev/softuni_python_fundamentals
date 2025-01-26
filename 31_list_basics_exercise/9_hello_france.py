@@ -44,7 +44,6 @@ total_profit = sum(new_price)
 total_money = total_profit + budget
 
 
-
 print(' '.join(f'{amount:.2f}' for amount in new_price))
 print(f'Profit: {profit:.2f}')
 if total_money >= TICKET_PRICE:
