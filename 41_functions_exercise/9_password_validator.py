@@ -26,13 +26,11 @@ def check_password(pwd):
             print("Password must have at least 2 digits")
         return is_valid
 
-    is_lenght = length_check(pwd)
+    is_length = length_check(pwd)
     is_symbol = symbols_check(pwd)
     is_numbers = last_symbols(pwd)
 
-    return is_lenght, is_symbol, is_numbers
-
-
+    return is_length, is_symbol, is_numbers
 
 input_password = input()
 
