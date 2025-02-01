@@ -32,11 +32,11 @@ def check_password(pwd):
 
     return is_length, is_symbol, is_numbers
 
+
+
 input_password = input()
 
 is_valid = all(check_password(input_password))
 
 if is_valid:
     print('Password is valid')
-
-    #d

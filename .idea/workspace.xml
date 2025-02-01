@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="Solution with RECURSION">
-      <change afterPath="$PROJECT_DIR$/41_functions_exercise/3_characters_in_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_functions_exercise/4_odd_and_even_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_functions_exercise/5_even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_functions_exercise/6_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_functions_exercise/7_nin_max_and_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_functions_exercise/8_palindrome_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_functions_exercise/9_password_validator.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="9">
+      <change afterPath="$PROJECT_DIR$/42_functions_more_exercises/1_data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42_functions_more_exercises/2_center_point.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_functions_exercise/12_factorial_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_functions_exercise/12_factorial_division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_functions_exercise/5_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_functions_exercise/5_even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_functions_exercise/9_password_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_functions_exercise/9_password_validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +55,14 @@
     "Python.10_bread_factory.executor": "Run",
     "Python.10_gladiator_expenses.executor": "Run",
     "Python.10_mutate_strings.executor": "Run",
+    "Python.10_perfect_number.executor": "Run",
     "Python.11_easter_bread.executor": "Run",
     "Python.11_loading_bar.executor": "Run",
     "Python.12_christmas_spirit.executor": "Run",
     "Python.12_factorial_division.executor": "Run",
     "Python.1_absolute_values.executor": "Run",
     "Python.1_concat_names.executor": "Run",
+    "Python.1_data_types.executor": "Run",
     "Python.1_exchange_integers.executor": "Run",
     "Python.1_find_the_largest.executor": "Run",
     "Python.1_integer_operations.executor": "Run",
@@ -73,6 +73,7 @@
     "Python.1_strange_zoo.executor": "Run",
     "Python.1_zeros_to_back.executor": "Run",
     "Python.2_add_and_subtract.executor": "Run",
+    "Python.2_center_point.executor": "Run",
     "Python.2_courses.executor": "Run",
     "Python.2_drink_something.executor": "Run",
     "Python.2_find_the_capitals.executor": "Run",
@@ -379,7 +380,47 @@
       <option name="project" value="LOCAL" />
       <updated>1738268674228</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="3,4,5,6,7,8,9">
+      <option name="closed" value="true" />
+      <created>1738280565043</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1738280565043</updated>
+    </task>
+    <task id="LOCAL-00029" summary="3,4,5,6,7,8,9">
+      <option name="closed" value="true" />
+      <created>1738280752808</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1738280752808</updated>
+    </task>
+    <task id="LOCAL-00030" summary="9">
+      <option name="closed" value="true" />
+      <created>1738280803607</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1738280803607</updated>
+    </task>
+    <task id="LOCAL-00031" summary="9">
+      <option name="closed" value="true" />
+      <created>1738280850194</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1738280850194</updated>
+    </task>
+    <task id="LOCAL-00032" summary="9">
+      <option name="closed" value="true" />
+      <created>1738441391216</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1738441391216</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -415,7 +456,9 @@
     <MESSAGE value="all problems from List" />
     <MESSAGE value="1,2,11,12 from exercise" />
     <MESSAGE value="Solution with RECURSION" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution with RECURSION" />
+    <MESSAGE value="3,4,5,6,7,8,9" />
+    <MESSAGE value="9" />
+    <option name="LAST_COMMIT_MESSAGE" value="9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -424,11 +467,6 @@
           <url>file://$PROJECT_DIR$/30_list_basics/5_numbers_filter.py</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/41_functions_exercise/3_characters_in_range.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
