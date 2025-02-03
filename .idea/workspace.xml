@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="9">
-      <change afterPath="$PROJECT_DIR$/42_functions_more_exercises/1_data_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42_functions_more_exercises/2_center_point.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="+">
+      <change afterPath="$PROJECT_DIR$/42_functions_more_exercises/4_tribonacci_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-exam-preparation/01/1_registration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41_functions_exercise/12_factorial_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_functions_exercise/12_factorial_division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41_functions_exercise/5_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_functions_exercise/5_even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41_functions_exercise/9_password_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_functions_exercise/9_password_validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +66,7 @@
     "Python.1_invert_values.executor": "Run",
     "Python.1_jennys_secret_message.executor": "Run",
     "Python.1_number_definer.executor": "Run",
+    "Python.1_registration.executor": "Run",
     "Python.1_smallest_of_three_numbers.executor": "Run",
     "Python.1_strange_zoo.executor": "Run",
     "Python.1_zeros_to_back.executor": "Run",
@@ -100,6 +98,7 @@
     "Python.4_search.executor": "Run",
     "Python.4_sum_of_a_beach.executor": "Run",
     "Python.4_sum_of_chars.executor": "Run",
+    "Python.4_tribonacci_sequence.executor": "Run",
     "Python.5_even_numbers.executor": "Run",
     "Python.5_faro_shuffle.executor": "Run",
     "Python.5_number_between_1_and_100.executor": "Run",
@@ -420,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738441391216</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="+">
+      <option name="closed" value="true" />
+      <created>1738443856231</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1738443856231</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -458,7 +465,8 @@
     <MESSAGE value="Solution with RECURSION" />
     <MESSAGE value="3,4,5,6,7,8,9" />
     <MESSAGE value="9" />
-    <option name="LAST_COMMIT_MESSAGE" value="9" />
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
