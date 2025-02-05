@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="+">
-      <change afterPath="$PROJECT_DIR$/42_functions_more_exercises/4_tribonacci_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-exam-preparation/01/1_registration.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="=solution exam">
+      <change afterPath="$PROJECT_DIR$/50_lists_advanced/1_no_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50_lists_advanced/2_trains.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid-exam-preparation/03/2_shoot_for_the_win.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid-exam-preparation/03/2_shoot_for_the_win.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +59,16 @@
     "Python.12_christmas_spirit.executor": "Run",
     "Python.12_factorial_division.executor": "Run",
     "Python.1_absolute_values.executor": "Run",
+    "Python.1_computer_store.executor": "Run",
     "Python.1_concat_names.executor": "Run",
+    "Python.1_counter_strike.executor": "Run",
     "Python.1_data_types.executor": "Run",
     "Python.1_exchange_integers.executor": "Run",
     "Python.1_find_the_largest.executor": "Run",
     "Python.1_integer_operations.executor": "Run",
     "Python.1_invert_values.executor": "Run",
     "Python.1_jennys_secret_message.executor": "Run",
+    "Python.1_no_vowels.executor": "Run",
     "Python.1_number_definer.executor": "Run",
     "Python.1_registration.executor": "Run",
     "Python.1_smallest_of_three_numbers.executor": "Run",
@@ -73,12 +77,15 @@
     "Python.2_add_and_subtract.executor": "Run",
     "Python.2_center_point.executor": "Run",
     "Python.2_courses.executor": "Run",
+    "Python.2_destination_mapper.executor": "Run",
     "Python.2_drink_something.executor": "Run",
     "Python.2_find_the_capitals.executor": "Run",
     "Python.2_grades.executor": "Run",
     "Python.2_largest_of_three_numbers.executor": "Run",
     "Python.2_multiples_list.executor": "Run",
     "Python.2_prime_number_checker.executor": "Run",
+    "Python.2_shoot_for_the_win.executor": "Run",
+    "Python.2_the_lift.executor": "Run",
     "Python.3_calculations.executor": "Run",
     "Python.3_car_race.executor": "Run",
     "Python.3_characters_in_range.executor": "Run",
@@ -87,6 +94,7 @@
     "Python.3_elevator.executor": "Run",
     "Python.3_football_cards.executor": "Run",
     "Python.3_list_statistics.executor": "Run",
+    "Python.3_longer_line.executor": "Run",
     "Python.3_word_reverse.executor": "Run",
     "Python.4_balanced_brackets.executor": "Run",
     "Python.4_centuries_to_minutes.executor": "Run",
@@ -101,6 +109,7 @@
     "Python.4_tribonacci_sequence.executor": "Run",
     "Python.5_even_numbers.executor": "Run",
     "Python.5_faro_shuffle.executor": "Run",
+    "Python.5_multiplication_sign.executor": "Run",
     "Python.5_number_between_1_and_100.executor": "Run",
     "Python.5_numbers_filter.executor": "Run",
     "Python.5_orders.executor": "Run",
@@ -150,7 +159,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -427,7 +436,39 @@
       <option name="project" value="LOCAL" />
       <updated>1738443856231</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="registrati0n + tribonacci_sequence">
+      <option name="closed" value="true" />
+      <created>1738618075977</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1738618075977</updated>
+    </task>
+    <task id="LOCAL-00035" summary="multiplication_sign">
+      <option name="closed" value="true" />
+      <created>1738692608094</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1738692608094</updated>
+    </task>
+    <task id="LOCAL-00036" summary="computer_store">
+      <option name="closed" value="true" />
+      <created>1738700717547</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1738700717547</updated>
+    </task>
+    <task id="LOCAL-00037" summary="=solution exam">
+      <option name="closed" value="true" />
+      <created>1738704913824</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1738704913824</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -442,9 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="upload" />
-    <MESSAGE value="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option." />
-    <MESSAGE value="practice Problems" />
     <MESSAGE value="Lab: Data Types and Variables" />
     <MESSAGE value="Stupid and broker solution for 6" />
     <MESSAGE value="problems from More-Exercises" />
@@ -466,7 +504,11 @@
     <MESSAGE value="3,4,5,6,7,8,9" />
     <MESSAGE value="9" />
     <MESSAGE value="+" />
-    <option name="LAST_COMMIT_MESSAGE" value="+" />
+    <MESSAGE value="registrati0n + tribonacci_sequence" />
+    <MESSAGE value="multiplication_sign" />
+    <MESSAGE value="computer_store" />
+    <MESSAGE value="=solution exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="=solution exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -35,3 +35,4 @@ while True:
 
 print(f'Shot targets: {shot_targets} -> ', end='')
 print(' '.join(str(x) for x in targets))
+
