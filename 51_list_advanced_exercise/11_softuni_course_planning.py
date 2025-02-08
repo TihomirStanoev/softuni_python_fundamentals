@@ -58,3 +58,4 @@ while True:
 
 
 [print(f'{position+1}.{lesson}') for position, lesson in enumerate(lessons_list)]
+
