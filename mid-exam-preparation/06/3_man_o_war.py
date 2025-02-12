@@ -87,9 +87,9 @@ maximum_health = int(input())
 
 pirate_status, warship_status, lose = man_o_war(pirate_status, warship_status, maximum_health)
 
+
 if not lose:
     pirate_sum = section_status(pirate_status)
     warship_sum = section_status(warship_status)
-
     print(f'Pirate ship status: {pirate_sum}')
     print(f'Warship status: {warship_sum}')
