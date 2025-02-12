@@ -1,13 +1,11 @@
 <center><h1><b>06. Programming Fundamentals Mid Exam Retake</b></h1></center>
 
-[01. Black Flag](#prob1)
-[02. Treasure Hunt](#prob2)
-[03. Man O War](#prob3)
-<ol>
-<li><a href="06#prob1">Black Flag</a></li>
-<li><a href="prob2">Treasure Hunt</a></li>
-<li><a href="prob3">Man O War</a></li>
-</ol>
+<br><br>
+<h3><strong>Problems:</strong></h3>
+
+[01. Black Flag](#prob1)<br/>
+[02. Treasure Hunt](#prob2)<br/>
+[03. Man O War](#prob3)<br/>
 
 
 <h1>&nbsp;</h1>
@@ -198,8 +196,6 @@
 </tr>
 </tbody>
 </table>
-<h1 style="text-align: center;">&nbsp;</h1>
-<h1 style="text-align: center;">&nbsp;</h1>
 <h1>&nbsp;</h1>
 <h1 id="prob3">03. Man O War</h1>
 <p>The problem for exam preparation for the <a href="https://softuni.bg/courses/programming-fundamentals-csharp-java-js-python">Programming Fundamentals Course @SoftUni</a>.</p>
