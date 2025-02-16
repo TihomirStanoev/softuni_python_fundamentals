@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="=solution exam">
-      <change afterPath="$PROJECT_DIR$/50_lists_advanced/1_no_vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50_lists_advanced/2_trains.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="03. Man O War">
+      <change afterPath="$PROJECT_DIR$/60_mid_exam/1_burger_bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_mid_exam/2_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_mid_exam/3_deck_of_cards.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid-exam-preparation/03/2_shoot_for_the_win.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid-exam-preparation/03/2_shoot_for_the_win.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid-exam-preparation/06/3_man_o_war.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid-exam-preparation/06/3_man_o_war.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,17 +55,23 @@
     "Python.10_gladiator_expenses.executor": "Run",
     "Python.10_mutate_strings.executor": "Run",
     "Python.10_perfect_number.executor": "Run",
+    "Python.10_pokemon_dont_go.executor": "Run",
     "Python.11_easter_bread.executor": "Run",
     "Python.11_loading_bar.executor": "Run",
+    "Python.11_softuni_course_planning.executor": "Run",
     "Python.12_christmas_spirit.executor": "Run",
     "Python.12_factorial_division.executor": "Run",
     "Python.1_absolute_values.executor": "Run",
+    "Python.1_black_flag.executor": "Run",
+    "Python.1_bonus_scoring_system.executor": "Run",
+    "Python.1_burger_bus.executor": "Run",
     "Python.1_computer_store.executor": "Run",
     "Python.1_concat_names.executor": "Run",
     "Python.1_counter_strike.executor": "Run",
     "Python.1_data_types.executor": "Run",
     "Python.1_exchange_integers.executor": "Run",
     "Python.1_find_the_largest.executor": "Run",
+    "Python.1_guinea_pig.executor": "Run",
     "Python.1_integer_operations.executor": "Run",
     "Python.1_invert_values.executor": "Run",
     "Python.1_jennys_secret_message.executor": "Run",
@@ -72,9 +79,12 @@
     "Python.1_number_definer.executor": "Run",
     "Python.1_registration.executor": "Run",
     "Python.1_smallest_of_three_numbers.executor": "Run",
+    "Python.1_softuni_reception.executor": "Run",
     "Python.1_strange_zoo.executor": "Run",
+    "Python.1_which_are_in.executor": "Run",
     "Python.1_zeros_to_back.executor": "Run",
     "Python.2_add_and_subtract.executor": "Run",
+    "Python.2_array_modifier.executor": "Debug",
     "Python.2_center_point.executor": "Run",
     "Python.2_courses.executor": "Run",
     "Python.2_destination_mapper.executor": "Run",
@@ -82,26 +92,43 @@
     "Python.2_find_the_capitals.executor": "Run",
     "Python.2_grades.executor": "Run",
     "Python.2_largest_of_three_numbers.executor": "Run",
+    "Python.2_mu_online.executor": "Run",
     "Python.2_multiples_list.executor": "Run",
+    "Python.2_next_version.executor": "Run",
+    "Python.2_numbers.executor": "Run",
     "Python.2_prime_number_checker.executor": "Run",
     "Python.2_shoot_for_the_win.executor": "Run",
+    "Python.2_shopping_list.executor": "Run",
     "Python.2_the_lift.executor": "Run",
+    "Python.2_trains.executor": "Run",
+    "Python.2_treasure_hunt.executor": "Debug",
     "Python.3_calculations.executor": "Run",
     "Python.3_car_race.executor": "Run",
     "Python.3_characters_in_range.executor": "Run",
     "Python.3_chat_codes.executor": "Run",
+    "Python.3_deck_of_cards.executor": "Run",
     "Python.3_decrypting_messages.executor": "Run",
     "Python.3_elevator.executor": "Run",
     "Python.3_football_cards.executor": "Run",
+    "Python.3_heart_delivery.executor": "Run",
+    "Python.3_inventory.executor": "Debug",
     "Python.3_list_statistics.executor": "Run",
     "Python.3_longer_line.executor": "Run",
+    "Python.3_man_o_war.executor": "Run",
+    "Python.3_memory_game.executor": "Run",
+    "Python.3_moving_target.executor": "Run",
+    "Python.3_numbers.executor": "Run",
+    "Python.3_to-do_list.executor": "Run",
+    "Python.3_word_filter.executor": "Run",
     "Python.3_word_reverse.executor": "Run",
     "Python.4_balanced_brackets.executor": "Run",
     "Python.4_centuries_to_minutes.executor": "Run",
     "Python.4_even_numbers.executor": "Run",
     "Python.4_maximum_multiple.executor": "Run",
     "Python.4_number_beggars.executor": "Run",
+    "Python.4_number_classification.executor": "Run",
     "Python.4_odd_and_even_sum.executor": "Run",
+    "Python.4_palindrome_strings.executor": "Run",
     "Python.4_repeat_string.executor": "Run",
     "Python.4_search.executor": "Run",
     "Python.4_sum_of_a_beach.executor": "Run",
@@ -112,11 +139,15 @@
     "Python.5_multiplication_sign.executor": "Run",
     "Python.5_number_between_1_and_100.executor": "Run",
     "Python.5_numbers_filter.executor": "Run",
+    "Python.5_office_chairs.executor": "Run",
     "Python.5_orders.executor": "Run",
     "Python.5_print_part_of_the_ASCII_table.executor": "Run",
+    "Python.5_sorting_names.executor": "Run",
     "Python.5_special_numbers.executor": "Run",
     "Python.5_tic_tac_toe.executor": "Debug",
     "Python.6_calculate_rectangle_area.executor": "Run",
+    "Python.6_electron_distribution.executor": "Run",
+    "Python.6_even_numbers.executor": "Run",
     "Python.6_shopping.executor": "Run",
     "Python.6_sort.executor": "Run",
     "Python.6_string_pureness.executor": "Run",
@@ -124,14 +155,18 @@
     "Python.6_triples_of_latin_letters.executor": "Run",
     "Python.7_double_char.executor": "Run",
     "Python.7_easter_gifts.executor": "Run",
+    "Python.7_group_of_10s.executor": "Run",
     "Python.7_nin_max_and_sum.executor": "Run",
     "Python.7_patterns.executor": "Run",
     "Python.7_rounding.executor": "Run",
+    "Python.7_the_office.executor": "Run",
     "Python.7_water_overflow.executor": "Run",
+    "Python.8_decipher_this.executor": "Run",
     "Python.8_how_much_coffee_do_you_need.executor": "Run",
     "Python.8_palindrome_integers.executor": "Run",
     "Python.8_party_profit.executor": "Run",
     "Python.8_seize_the_fire.executor": "Run",
+    "Python.9_anonymous_threat.executor": "Run",
     "Python.9_hello_france.executor": "Run",
     "Python.9_password_validator.executor": "Run",
     "Python.9_snowballs.executor": "Run",
@@ -144,7 +179,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/tihomir/Documents/GitHub/python-fundamentals-01-2025",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -153,8 +188,107 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tihomir\Documents\SoftUni\python_fundamentals" />
+      <recent name="C:\Users\tihomir\Documents\SoftUni\python_fundamentals\mid-exam-preparation\01" />
       <recent name="C:\Users\tihomir\Documents\SoftUni\python_fundamentals\31_list_basics_exercise" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="2_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/60_mid_exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/60_mid_exam/2_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_treasure_hunt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid-exam-preparation/06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid-exam-preparation/06/2_treasure_hunt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_deck_of_cards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/60_mid_exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/60_mid_exam/3_deck_of_cards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_man_o_war" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid-exam-preparation/06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid-exam-preparation/06/3_man_o_war.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3_deck_of_cards" />
+        <item itemvalue="Python.2_numbers" />
+        <item itemvalue="Python.3_man_o_war" />
+        <item itemvalue="Python.2_treasure_hunt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -171,190 +305,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736369781424</updated>
-    </task>
-    <task id="LOCAL-00001" summary="upload">
-      <option name="closed" value="true" />
-      <created>1736370091042</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1736370091042</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Add color of restart string and remove question for &quot;save to file&quot; form figures without this option.">
-      <option name="closed" value="true" />
-      <created>1736799636479</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1736799636479</updated>
-    </task>
-    <task id="LOCAL-00003" summary="practice Problems">
-      <option name="closed" value="true" />
-      <created>1736803723580</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1736803723580</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Lab: Data Types and Variables">
-      <option name="closed" value="true" />
-      <created>1736981159989</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1736981159989</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Stupid and broker solution for 6">
-      <option name="closed" value="true" />
-      <created>1736983295907</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1736983295907</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Stupid and broker solution for 6">
-      <option name="closed" value="true" />
-      <created>1737068251067</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1737068251067</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Stupid and broker solution for 6">
-      <option name="closed" value="true" />
-      <created>1737068263311</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1737068263311</updated>
-    </task>
-    <task id="LOCAL-00008" summary="problems from More-Exercises">
-      <option name="closed" value="true" />
-      <created>1737222962879</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1737222962879</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Upload all solution">
-      <option name="closed" value="true" />
-      <created>1737233868269</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1737233868269</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Upload all solution">
-      <option name="closed" value="true" />
-      <created>1737233937459</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1737233937459</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Upload all solution">
-      <option name="closed" value="true" />
-      <created>1737233983900</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1737233983900</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Upload all solution">
-      <option name="closed" value="true" />
-      <created>1737234012083</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1737234012083</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Upload">
-      <option name="closed" value="true" />
-      <created>1737665335089</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1737665335089</updated>
-    </task>
-    <task id="LOCAL-00014" summary="2.&#9;Courses">
-      <option name="closed" value="true" />
-      <created>1737750330809</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1737750330809</updated>
-    </task>
-    <task id="LOCAL-00015" summary="3.&#9;List Statistics">
-      <option name="closed" value="true" />
-      <created>1737750615245</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1737750615245</updated>
-    </task>
-    <task id="LOCAL-00016" summary="search number filter">
-      <option name="closed" value="true" />
-      <created>1737751892757</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1737751892757</updated>
-    </task>
-    <task id="LOCAL-00017" summary="6.&#9;Survival of the Biggest&#10;7.&#9;* Easter Gifts">
-      <option name="closed" value="true" />
-      <created>1737798587493</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1737798587493</updated>
-    </task>
-    <task id="LOCAL-00018" summary="8. Seize the Fire">
-      <option name="closed" value="true" />
-      <created>1737801629896</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1737801629896</updated>
-    </task>
-    <task id="LOCAL-00019" summary="5. Faro Shuffle solved after three days.">
-      <option name="closed" value="true" />
-      <created>1737823743512</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1737823743512</updated>
-    </task>
-    <task id="LOCAL-00020" summary="09. Hello, France">
-      <option name="closed" value="true" />
-      <created>1737885437875</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1737885437875</updated>
-    </task>
-    <task id="LOCAL-00021" summary="10.&#9;Bread Factory">
-      <option name="closed" value="true" />
-      <created>1737895709202</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1737895709202</updated>
-    </task>
-    <task id="LOCAL-00022" summary="02. Messaging">
-      <option name="closed" value="true" />
-      <created>1737907888956</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1737907888956</updated>
-    </task>
-    <task id="LOCAL-00023" summary="02. Messaging">
-      <option name="closed" value="true" />
-      <created>1737907920418</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1737907920418</updated>
     </task>
     <task id="LOCAL-00024" summary="03. Car Race">
       <option name="closed" value="true" />
@@ -468,7 +418,287 @@
       <option name="project" value="LOCAL" />
       <updated>1738704913824</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="lists advanced">
+      <option name="closed" value="true" />
+      <created>1738787951951</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1738787951951</updated>
+    </task>
+    <task id="LOCAL-00039" summary="to_to_list">
+      <option name="closed" value="true" />
+      <created>1738790147155</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1738790147155</updated>
+    </task>
+    <task id="LOCAL-00040" summary="4.&#9;Palindrome Strings">
+      <option name="closed" value="true" />
+      <created>1738791836094</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1738791836094</updated>
+    </task>
+    <task id="LOCAL-00041" summary="5.&#9;Sorting Names">
+      <option name="closed" value="true" />
+      <created>1738791849688</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1738791849688</updated>
+    </task>
+    <task id="LOCAL-00042" summary="6.&#9;Even Numbers">
+      <option name="closed" value="true" />
+      <created>1738791858707</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1738791858707</updated>
+    </task>
+    <task id="LOCAL-00043" summary="7.&#9;The Office">
+      <option name="closed" value="true" />
+      <created>1738791866257</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1738791866257</updated>
+    </task>
+    <task id="LOCAL-00044" summary="1. Which are in">
+      <option name="closed" value="true" />
+      <created>1738876237698</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1738876237698</updated>
+    </task>
+    <task id="LOCAL-00045" summary="2. Next Version">
+      <option name="closed" value="true" />
+      <created>1738876248607</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1738876248607</updated>
+    </task>
+    <task id="LOCAL-00046" summary="3. World Filter">
+      <option name="closed" value="true" />
+      <created>1738876258890</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1738876258890</updated>
+    </task>
+    <task id="LOCAL-00047" summary="4. Number Classification">
+      <option name="closed" value="true" />
+      <created>1738876269145</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1738876269145</updated>
+    </task>
+    <task id="LOCAL-00048" summary="5. Office Chairs">
+      <option name="closed" value="true" />
+      <created>1738879379100</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1738879379100</updated>
+    </task>
+    <task id="LOCAL-00049" summary="7. Group of 10's">
+      <option name="closed" value="true" />
+      <created>1738879393311</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1738879393311</updated>
+    </task>
+    <task id="LOCAL-00050" summary="3 Memory Game">
+      <option name="closed" value="true" />
+      <created>1738948121468</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1738948121469</updated>
+    </task>
+    <task id="LOCAL-00051" summary="06. Electron Distribution">
+      <option name="closed" value="true" />
+      <created>1738963828817</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1738963828817</updated>
+    </task>
+    <task id="LOCAL-00052" summary="08. Decipher This!">
+      <option name="closed" value="true" />
+      <created>1738966050872</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1738966050872</updated>
+    </task>
+    <task id="LOCAL-00053" summary="09. Anonymous Threat">
+      <option name="closed" value="true" />
+      <created>1739007843712</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1739007843712</updated>
+    </task>
+    <task id="LOCAL-00054" summary="10. Pokemon Don't Go">
+      <option name="closed" value="true" />
+      <created>1739017943217</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1739017943217</updated>
+    </task>
+    <task id="LOCAL-00055" summary="11. SoftUni Course Planning">
+      <option name="closed" value="true" />
+      <created>1739031811353</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1739031811353</updated>
+    </task>
+    <task id="LOCAL-00056" summary="11. SoftUni Course Planning ! 88 / 100">
+      <option name="closed" value="true" />
+      <created>1739031855331</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1739031855331</updated>
+    </task>
+    <task id="LOCAL-00057" summary="01. SoftUni Reception">
+      <option name="closed" value="true" />
+      <created>1739091459869</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1739091459870</updated>
+    </task>
+    <task id="LOCAL-00058" summary="02. Array Modifier">
+      <option name="closed" value="true" />
+      <created>1739091468135</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1739091468136</updated>
+    </task>
+    <task id="LOCAL-00059" summary="03. Numbers">
+      <option name="closed" value="true" />
+      <created>1739091480097</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1739091480097</updated>
+    </task>
+    <task id="LOCAL-00060" summary="01. Guinea Pig">
+      <option name="closed" value="true" />
+      <created>1739099485713</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1739099485713</updated>
+    </task>
+    <task id="LOCAL-00061" summary="02. Shopping List">
+      <option name="closed" value="true" />
+      <created>1739099496868</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1739099496868</updated>
+    </task>
+    <task id="LOCAL-00062" summary="03. Moving Target">
+      <option name="closed" value="true" />
+      <created>1739099521599</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1739099521599</updated>
+    </task>
+    <task id="LOCAL-00063" summary="memory game move">
+      <option name="closed" value="true" />
+      <created>1739099576298</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1739099576300</updated>
+    </task>
+    <task id="LOCAL-00064" summary="3. Heart Delivery">
+      <option name="closed" value="true" />
+      <created>1739220866798</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1739220866798</updated>
+    </task>
+    <task id="LOCAL-00065" summary="01. Bonus Scoring System">
+      <option name="closed" value="true" />
+      <created>1739220880636</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1739220880636</updated>
+    </task>
+    <task id="LOCAL-00066" summary="02. MuOnline">
+      <option name="closed" value="true" />
+      <created>1739225256753</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1739225256753</updated>
+    </task>
+    <task id="LOCAL-00067" summary="03. Inventory">
+      <option name="closed" value="true" />
+      <created>1739225267441</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1739225267441</updated>
+    </task>
+    <task id="LOCAL-00068" summary="02. Treasure Hunt">
+      <option name="closed" value="true" />
+      <created>1739315421417</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1739315421418</updated>
+    </task>
+    <task id="LOCAL-00069" summary="01. Black Flag">
+      <option name="closed" value="true" />
+      <created>1739315442766</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1739315442766</updated>
+    </task>
+    <task id="LOCAL-00070" summary="03. Man O War">
+      <option name="closed" value="true" />
+      <created>1739394409623</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1739394409624</updated>
+    </task>
+    <task id="LOCAL-00071" summary="03. Man O War">
+      <option name="closed" value="true" />
+      <created>1739394569792</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1739394569792</updated>
+    </task>
+    <task id="LOCAL-00072" summary="03. Man O War">
+      <option name="closed" value="true" />
+      <created>1739394593507</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1739394593507</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,32 +713,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab: Data Types and Variables" />
-    <MESSAGE value="Stupid and broker solution for 6" />
-    <MESSAGE value="problems from More-Exercises" />
-    <MESSAGE value="Upload all solution" />
-    <MESSAGE value="Upload" />
-    <MESSAGE value="2.&#9;Courses" />
-    <MESSAGE value="3.&#9;List Statistics" />
-    <MESSAGE value="search number filter" />
-    <MESSAGE value="6.&#9;Survival of the Biggest&#10;7.&#9;* Easter Gifts" />
-    <MESSAGE value="8. Seize the Fire" />
-    <MESSAGE value="5. Faro Shuffle solved after three days." />
-    <MESSAGE value="09. Hello, France" />
-    <MESSAGE value="10.&#9;Bread Factory" />
-    <MESSAGE value="02. Messaging" />
-    <MESSAGE value="03. Car Race" />
-    <MESSAGE value="all problems from List" />
-    <MESSAGE value="1,2,11,12 from exercise" />
-    <MESSAGE value="Solution with RECURSION" />
-    <MESSAGE value="3,4,5,6,7,8,9" />
-    <MESSAGE value="9" />
-    <MESSAGE value="+" />
-    <MESSAGE value="registrati0n + tribonacci_sequence" />
-    <MESSAGE value="multiplication_sign" />
-    <MESSAGE value="computer_store" />
-    <MESSAGE value="=solution exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="=solution exam" />
+    <MESSAGE value="3. World Filter" />
+    <MESSAGE value="4. Number Classification" />
+    <MESSAGE value="5. Office Chairs" />
+    <MESSAGE value="7. Group of 10's" />
+    <MESSAGE value="3 Memory Game" />
+    <MESSAGE value="06. Electron Distribution" />
+    <MESSAGE value="08. Decipher This!" />
+    <MESSAGE value="09. Anonymous Threat" />
+    <MESSAGE value="10. Pokemon Don't Go" />
+    <MESSAGE value="11. SoftUni Course Planning" />
+    <MESSAGE value="11. SoftUni Course Planning ! 88 / 100" />
+    <MESSAGE value="01. SoftUni Reception" />
+    <MESSAGE value="02. Array Modifier" />
+    <MESSAGE value="03. Numbers" />
+    <MESSAGE value="01. Guinea Pig" />
+    <MESSAGE value="02. Shopping List" />
+    <MESSAGE value="03. Moving Target" />
+    <MESSAGE value="memory game move" />
+    <MESSAGE value="3. Heart Delivery" />
+    <MESSAGE value="01. Bonus Scoring System" />
+    <MESSAGE value="02. MuOnline" />
+    <MESSAGE value="03. Inventory" />
+    <MESSAGE value="02. Treasure Hunt" />
+    <MESSAGE value="01. Black Flag" />
+    <MESSAGE value="03. Man O War" />
+    <option name="LAST_COMMIT_MESSAGE" value="03. Man O War" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -518,7 +748,24 @@
           <line>2</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mid-exam-preparation/02/2_array_modifier.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/60_mid_exam/3_deck_of_cards.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>

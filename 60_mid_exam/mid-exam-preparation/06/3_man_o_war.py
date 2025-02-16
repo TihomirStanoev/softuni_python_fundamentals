@@ -1,4 +1,4 @@
-def fire(warship_list: list, i: int, damage: int):
+def fire(warship_list: list, i: int, damage: int) -> [bool, list]:
     if i in range(len(warship_list)):
         warship_list[i] -= damage
 
