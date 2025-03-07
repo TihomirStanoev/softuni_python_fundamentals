@@ -3,7 +3,7 @@ def name_check(names_list):
     valid_names = []
 
     for name in names_list:
-        if len(name) in range(3,16):
+        if len(name) in range(3,16+1):
             is_valid = False
             for char in name:
                 if char.isalnum() or char in symbols:
