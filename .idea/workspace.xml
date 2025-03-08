@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="09. Student Academy">
-      <change afterPath="$PROJECT_DIR$/81_dictionaries_exercise/10_company_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/81_dictionaries_exercise/11_force_book.py" afterDir="false" />
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="10.&#9;Company Users">
+      <change afterPath="$PROJECT_DIR$/81_dictionaries_exercise/12_softuni_exam_results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/90_text_processing/1_reverse_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/90_text_processing/2_repeat_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/90_text_processing/3_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/90_text_processing/4_text_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/90_text_processing/5_digits_letters_and_other.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +65,7 @@
     "Python.11_softuni_course_planning.executor": "Run",
     "Python.12_christmas_spirit.executor": "Run",
     "Python.12_factorial_division.executor": "Run",
+    "Python.12_softuni_exam_results.executor": "Run",
     "Python.1_absolute_values.executor": "Run",
     "Python.1_bakery.executor": "Run",
     "Python.1_black_flag.executor": "Run",
@@ -81,6 +86,7 @@
     "Python.1_no_vowels.executor": "Run",
     "Python.1_number_definer.executor": "Run",
     "Python.1_registration.executor": "Run",
+    "Python.1_reverse_strings.executor": "Run",
     "Python.1_smallest_of_three_numbers.executor": "Run",
     "Python.1_softuni_reception.executor": "Run",
     "Python.1_storage.executor": "Run",
@@ -103,6 +109,7 @@
     "Python.2_numbers.executor": "Run",
     "Python.2_party.executor": "Run",
     "Python.2_prime_number_checker.executor": "Run",
+    "Python.2_repeat_strings.executor": "Run",
     "Python.2_shoot_for_the_win.executor": "Run",
     "Python.2_shopping_list.executor": "Run",
     "Python.2_stock.executor": "Run",
@@ -147,12 +154,14 @@
     "Python.4_students.executor": "Debug",
     "Python.4_sum_of_a_beach.executor": "Run",
     "Python.4_sum_of_chars.executor": "Run",
+    "Python.4_text_filter.executor": "Run",
     "Python.4_town.executor": "Run",
     "Python.4_tribonacci_sequence.executor": "Run",
     "Python.4_zoo.executor": "Run",
     "Python.5_ascii_values.executor": "Run",
     "Python.5_circle.executor": "Run",
     "Python.5_class.executor": "Run",
+    "Python.5_digits_letters_and_other.executor": "Run",
     "Python.5_even_numbers.executor": "Run",
     "Python.5_faro_shuffle.executor": "Run",
     "Python.5_legendary_farming.executor": "Run",
@@ -239,22 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736369781424</updated>
-    </task>
-    <task id="LOCAL-00058" summary="02. Array Modifier">
-      <option name="closed" value="true" />
-      <created>1739091468135</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1739091468136</updated>
-    </task>
-    <task id="LOCAL-00059" summary="03. Numbers">
-      <option name="closed" value="true" />
-      <created>1739091480097</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1739091480097</updated>
     </task>
     <task id="LOCAL-00060" summary="01. Guinea Pig">
       <option name="closed" value="true" />
@@ -632,7 +625,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740949169759</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="11.&#9;*Force Book">
+      <option name="closed" value="true" />
+      <created>1741001034531</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1741001034531</updated>
+    </task>
+    <task id="LOCAL-00108" summary="10.&#9;Company Users">
+      <option name="closed" value="true" />
+      <created>1741001042567</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1741001042567</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -647,8 +656,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="01. Storage" />
-    <MESSAGE value="02. Weapon" />
     <MESSAGE value="03. Catalogue" />
     <MESSAGE value="04. Town" />
     <MESSAGE value="05. Class" />
@@ -672,7 +679,9 @@
     <MESSAGE value=" 07. SoftUni Parking" />
     <MESSAGE value="08. Courses" />
     <MESSAGE value="09. Student Academy" />
-    <option name="LAST_COMMIT_MESSAGE" value="09. Student Academy" />
+    <MESSAGE value="11.&#9;*Force Book" />
+    <MESSAGE value="10.&#9;Company Users" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.&#9;Company Users" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -696,11 +705,6 @@
           <url>file://$PROJECT_DIR$/81_dictionaries_exercise/7_softuni_parking.py</url>
           <line>30</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/81_dictionaries_exercise/11_force_book.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
