@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="10.&#9;Company Users">
+    <list default="true" id="0782b8d9-d543-48ef-92b0-337f6caa694a" name="Changes" comment="text_processing">
       <change afterPath="$PROJECT_DIR$/81_dictionaries_exercise/12_softuni_exam_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/90_text_processing/1_reverse_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/90_text_processing/2_repeat_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/90_text_processing/3_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/90_text_processing/4_text_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/90_text_processing/5_digits_letters_and_other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/83_dictionaries_more_exercise/1_ranking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +81,7 @@
     "Python.1_jennys_secret_message.executor": "Run",
     "Python.1_no_vowels.executor": "Run",
     "Python.1_number_definer.executor": "Run",
+    "Python.1_ranking.executor": "Run",
     "Python.1_registration.executor": "Run",
     "Python.1_reverse_strings.executor": "Run",
     "Python.1_smallest_of_three_numbers.executor": "Run",
@@ -248,14 +245,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736369781424</updated>
-    </task>
-    <task id="LOCAL-00060" summary="01. Guinea Pig">
-      <option name="closed" value="true" />
-      <created>1739099485713</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1739099485713</updated>
     </task>
     <task id="LOCAL-00061" summary="02. Shopping List">
       <option name="closed" value="true" />
@@ -641,7 +630,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741001042567</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="text_processing">
+      <option name="closed" value="true" />
+      <created>1741445517083</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1741445517083</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -656,7 +653,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="03. Catalogue" />
     <MESSAGE value="04. Town" />
     <MESSAGE value="05. Class" />
     <MESSAGE value="06. Inventory" />
@@ -681,7 +677,8 @@
     <MESSAGE value="09. Student Academy" />
     <MESSAGE value="11.&#9;*Force Book" />
     <MESSAGE value="10.&#9;Company Users" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.&#9;Company Users" />
+    <MESSAGE value="text_processing" />
+    <option name="LAST_COMMIT_MESSAGE" value="text_processing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
