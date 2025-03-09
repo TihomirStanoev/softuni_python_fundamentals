@@ -54,3 +54,4 @@ while True:
 
 print(judge.contest_results())
 print(judge.individual_statistics())
+
