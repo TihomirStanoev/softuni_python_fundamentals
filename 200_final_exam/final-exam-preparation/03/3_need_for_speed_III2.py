@@ -43,7 +43,6 @@ class Car:
 
 
 class Garage:
-    car_id = 0
 
     def __init__(self):
         self.cars = dict()
